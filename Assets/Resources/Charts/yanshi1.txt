@@ -1,0 +1,25 @@
+0bpm|145
+0offset|3.9
+
+0tl 1tr 2tl 3tr 4tl 5tl 6tr 7tr 
+8tl 9tr 9:1/2tl 10tr 10:1/2tl 11tr 11:1/2tl 
+12:1/2tr 12:5/8tr 12:3/4tr 13tl
+13:1/2tr 13:5/8tr 13:3/4tr 14tl
+14:1/2tr 14:5/8tr 14:3/4tr 15tl
+
+16la 17ra 18cc 19cw
+20xr|120 22fl 23fr
+24tr 24:1/4tl 24:1/2tr 24:3/4tl
+25tr 25:1/4tl 25:1/2tr 25:3/4tl
+26tr 26:1/4tl 26:1/2tr 26:3/4tl
+27tr 
+
+27:1/2tl 27:1/2tr 27:1/2fa
+28:1/2tl 28:1/2tr 28:1/2fa
+29tl 29tr 29fa
+29:1/2tl 29:1/2tr 29:1/2fa
+30:1/2tr 30:1/2fr
+31tl 31fl
+31:1/2tr 31:1/2fr
+32tl 32fl
+

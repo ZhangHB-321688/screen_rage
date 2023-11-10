@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DE30E113-D3BD-C166-1D55-C4E4A29ED6F1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/judges/tap.cs">
+    <Files>
+      <File FileName="Assets/Scenes/xuanguanDEMO.cs" Line="23" Column="10" />
+      <File FileName="Assets/judges/AllTapsJudge.cs" />
+      <File FileName="Assets/judges/otherJudges/xroll.cs" />
+      <File FileName="Assets/judges/readChart2.cs" />
+      <File FileName="Assets/judges/otherJudges/freefallingJudge.cs" />
+      <File FileName="Assets/Scenes/xuanguanTEXT.cs" />
+      <File FileName="Assets/judges/playAudio.cs" />
+      <File FileName="Assets/Scenes/showLinePos.cs" />
+      <File FileName="Assets/judges/tap.cs" Line="53" Column="13" />
+      <File FileName="Assets/judges/LinePos.cs" />
+      <File FileName="Assets/Scenes/Mainmenu/kaishi.cs" />
+      <File FileName="Assets/Scenes/Mainmenu/kaishiTXT.cs" />
+      <File FileName="Assets/judges/otherJudges/Zroll.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69ee7c25-346a-4748-ba6c-24546cb47ad5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

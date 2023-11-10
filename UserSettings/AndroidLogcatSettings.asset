@@ -1,0 +1,185 @@
+{
+    "m_SelectedDeviceId": "ADF0220323005596",
+    "m_SelectedPackage": {
+        "deviceId": "ADF0220323005596",
+        "name": "com.DefaultCompany.com.unity.template.mobile2D",
+        "processId": 28181,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 23449,
+            "exited": true
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 26550,
+            "exited": true
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27633,
+            "exited": true
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 20768,
+            "exited": true
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 23730,
+            "exited": true
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.huawei.calculator",
+            "processId": 22669,
+            "exited": false
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 26913,
+            "exited": false
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 17839,
+            "exited": false
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 25430,
+            "exited": false
+        },
+        {
+            "deviceId": "ADF0220323005596",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 28181,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 21799,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 23179,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 24247,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 24969,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 26363,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 27667,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 32735,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 14923,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 16473,
+            "exited": false
+        },
+        {
+            "deviceId": "67V6R20410001777",
+            "name": "com.DefaultCompany.com.unity.template.mobile2D",
+            "processId": 19829,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
